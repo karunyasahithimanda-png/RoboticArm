@@ -1,5 +1,5 @@
 #RoboGrip X5 is a robotic arm project designed for pick-and-place operations, developed using a combination of mechanical design and embedded systems.
-#This project utilizes an Arduino Uno R3 and 5 servo motors, which are controlled through a Python-based GUI interface. The GUI allows users to operate the robotic arm in #a simple and interactive way.
+#This project utilizes an Arduino Uno r3 and 5 servo motors, which are controlled through a Python-based GUI interface. The GUI allows users to operate the robotic arm in #a simple and interactive way.
 #Key Features:
 #Python GUI for real-time control
 #Smooth movement using 5 servo motors
