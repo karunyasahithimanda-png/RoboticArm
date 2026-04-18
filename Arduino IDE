@@ -1,7 +1,6 @@
 //Arduino IDE is a development platform used to write and upload code to Arduino boards, enabling communication between software and hardware components
 
 #include <Servo.h>
-
 // Servo objects
 Servo servo1;
 Servo servo2;
